@@ -1,4 +1,4 @@
-## Oi, meu nome é Joannan, mas pode me chamar de Joa 🎈
+## 🎈
 <div align="center">
   <a href="https://github.com/joannanls">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joannanls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
